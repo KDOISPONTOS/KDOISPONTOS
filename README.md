@@ -1,7 +1,7 @@
 1- 👋 Hi, I’m @KDOISPONTOS
 -2 👀 I’m interested in  APRENDER DO ZERO
 - 🌱 I’m currently learning  CSS E HTML
-- 💞️ I’m looking to collaborate on  TUDO
+- 💞️ I’m looking to collaborar em tudo
 - 📫 How to reach me  
 
 <!---
